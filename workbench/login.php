@@ -86,7 +86,7 @@ require_once "header.php";
 
             <p>
                 <label for="serverUrl">Server URL:</label>
-                <input type="text" name="serverUrl" id="serverUrl" size="55" value="https://test.salesforce.com/services/Soap/u/49.0">
+                <input type="text" name="serverUrl" id="serverUrl" size="55">
             </p>
 
             <p>
